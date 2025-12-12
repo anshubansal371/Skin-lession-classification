@@ -1,0 +1,25 @@
+# Ignore dataset images
+dataset/
+datasets/
+images/
+imgs/
+*.jpg
+*.jpeg
+*.png
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore model files
+*.pth
+*.h5
+*.onnx
+*.pkl
+*.sav
+
+# Ignore archives
+*.zip
+*.rar
+*.7z
+
+
