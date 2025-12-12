@@ -15,9 +15,11 @@ This project uses **image preprocessing**, **feature extraction**, and an **SVM 
 ### **Support Vector Machine (SVM)**
 - Works well for high-dimensional image features  
 - Performs reliably on medium-sized datasets  
-- Achieved **70%–80% accuracy** on a dataset of ~10,000 images  
-
----
+- Achieved **70%–80% accuracy** on a dataset of ~10,000 images
+### **Random forest**
+- Multiple decision trees are used fore better performance
+- Performs reliably on medium-sized datasets  
+- Achieved **70%–80% accuracy** on a dataset of ~10,000 image
 
 ##  Dataset  
 - **Total Images:** ~10,000  
@@ -58,6 +60,9 @@ https://drive.google.com/file/d/1b87yDBLh_tAxAlJ72qyYjT7R4-Ncs-QH/view?usp=drive
 
 #### ✔ Skin Disease SVM Model  
 https://drive.google.com/file/d/1TFWQ-PaOPqAdtGfQHjOy1lJ_84GSYmtB/view?usp=drive_link
+
+#### ✔ Skin Disease random forest Model  
+https://drive.google.com/file/d/1xSasbpZEPHeq92Q1kaPf6LFS3VHsfysT/view?usp=drive_link
 
 ## 🚀 Future Improvements  
 - Replace SVM with **CNN / Transfer Learning (ResNet, MobileNet, EfficientNet)**  
