@@ -1,17 +1,17 @@
-# 🌟 Skin Lesion Classification Using SVM  
+# Skin Lesion Classification Using SVM  
 
 A Machine Learning project that classifies skin lesion images into different disease categories using a Support Vector Machine (SVM).  
 This project demonstrates practical ML workflow, ideal for students and beginners applying for internships.
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 Skin diseases are among the most common health issues globally. Early and accurate detection can help improve treatment outcomes.  
 This project uses **image preprocessing**, **feature extraction**, and an **SVM classifier** to predict different types of skin lesions.
 
 ---
 
-## 🧠 Model Used  
+## Model Used  
 ### **Support Vector Machine (SVM)**
 - Works well for high-dimensional image features  
 - Performs reliably on medium-sized datasets  
@@ -19,7 +19,7 @@ This project uses **image preprocessing**, **feature extraction**, and an **SVM 
 
 ---
 
-## 📊 Dataset  
+##  Dataset  
 - **Total Images:** ~10,000  
 - **Image Type:** Skin lesion / disease images  
 - **Classes:** Multiple disease categories  
@@ -44,8 +44,27 @@ Skin-Lesion-Classification/
 ├── README.md
 └── app.py
 
+## Download Trained Models  
+
+GitHub does not allow uploading large `.pkl` files, so the trained models are stored on Google Drive.
+
+###  **Download Links:**
+
+#### ✔ SVM Model  
+https://drive.google.com/file/d/1I6gbQjmTklFk3JQqToikofDhXpd6gqiH/view?usp=drive_link
+
+#### ✔ Best SVM Model  
+https://drive.google.com/file/d/1b87yDBLh_tAxAlJ72qyYjT7R4-Ncs-QH/view?usp=drive_link
+
+#### ✔ Skin Disease SVM Model  
+https://drive.google.com/file/d/1TFWQ-PaOPqAdtGfQHjOy1lJ_84GSYmtB/view?usp=drive_link
+
 ## 🚀 Future Improvements  
 - Replace SVM with **CNN / Transfer Learning (ResNet, MobileNet, EfficientNet)**  
 - Add image augmentation  
 - Train on larger dermatology datasets  
-- Deploy model on cloud  
+- Deploy model on cloud
+
+## 👤 Author  
+**Anshu Bansal**  
+GitHub: https://github.com/anshubansal371
